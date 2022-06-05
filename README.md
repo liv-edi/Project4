@@ -9,3 +9,5 @@ Technologies used for this project:
 The purpose of this project was to gain experience interpreting writing.executing server side Node.js code using VSCode, writing/executing Node.js REST API server using VSCode, using Fastify with GET verb, routes, and route parameters, working with data, testing code modules, using Postman to test web server outes, and working with JSON. We also were able to practice creating/ using code modules and using modern JS syntax.
 
 I did not do this project.
+
+<img width="263" alt="Screen Shot 2022-06-04 at 6 46 31 PM" src="https://user-images.githubusercontent.com/105889862/172033488-ea77753b-67f7-4fb7-a68c-05dbab3fba6a.png">
